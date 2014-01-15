@@ -1,0 +1,18 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+h1{font-family: 'Coda', cursive;
+	font-size: 3em;
+}
+h3{
+	font-family: 'Coda', cursive;
+	
+}
+
+p{
+	font-family: 'Varela', sans-serif;
+}
